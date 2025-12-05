@@ -2,5 +2,5 @@ package com.pluralsight.beanconfig.notification;
 
 public interface PieNotificationService {
 
-    public void notiyPieReady(String pieName);
+    public void notifyPieReady(String pieName);
 }
